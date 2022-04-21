@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Am-0-s
-- 👀 I’m interested in CAD and simulations,Artificial Intelligence,Manufacturing and process Automation,Robotics and General Rocket Science
+- 👀 I’m interested in CAD and simulations,Python programming and Artificial Intelligence,Manufacturing and process Automation,Robotics and General Rocket Science
 - 🌱 I’m currently learning Mechatronic Engineering and Industrial Automation
 - 💞️ I’m looking to collaborate on all fields described in my interest area
 - 📫 How to reach me . amosmunene-1999@outlook.com
